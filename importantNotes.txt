@@ -1,15 +1,12 @@
-** LASER CUT SETTINGS **
-Do it two times
-Power 75  %
-Speed 7,5 %
-Z     3	  mm
+** LASER CUT SETTINGS ** Do it two times Power 75 % Speed 
+7,5 % Z 3 mm
 
 
 
 ** MÄTVÄRDEN **
 
 Grundvärde	165
-100 ohm		209
-150 ohm		190
-180 ohm		184
-220 ohm		180
+100 ohm		216-219 bok4
+150 ohm		185     bok3
+180 ohm		181-187 bok2
+220 ohm		182-187 bok1
